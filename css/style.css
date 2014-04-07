@@ -50,6 +50,16 @@ nav a:hover {
     border-bottom: 4px solid #5cb0ff;
 }
 
+.half featured {
+            padding-right: 1500px;
+            background: #000eee;
+    
+}
+
+h2 {
+    font; border: solid;
+}
+
 article h1 {
     margin-bottom: 8px;
 }
